@@ -1,1 +1,0 @@
-<?php include 'images/jiepvot52.csv';  ?>
