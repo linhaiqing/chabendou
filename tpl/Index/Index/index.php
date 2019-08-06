@@ -14,7 +14,7 @@
       <div class="banner_center">
         <ul >
                 <volist name="index_lunbo_adver" id="vo">
-                <li style="background:url({$vo.pic})  "><a href="javascript:hz6d_is_exist('setIsinvited()%3Bwindow.open(#liyc#https%3A%2F%2Fwww16.53kf.com%2FwebCompany.php%3Farg%3D10170576%26style%3D1%26language%3Dzh-cn%26charset%3Dgbk%26kflist%3Doff%26kf%3D%26zdkf_type%3D1%26lnk_overflow%3D0%26referer%3Dhttp%253A%252F%252Fot.com%252Fyqc.html%26keyword%3D%26tfrom%3D1%26tpl%3Dcrystal_blue%26uid%3Dc60875c6c66a11399b222c2000fe7f33%26is_group%3D%26is_group%3D#liyc#%2C%20#liyc#_blank#liyc#%2C%20#liyc#height%3D600%2Cwidth%3D800%2Ctop%3D50%2Cleft%3D200%2Cstatus%3Dyes%2Ctoolbar%3Dno%2Cmenubar%3Dno%2Cresizable%3Dyes%2Cscrollbars%3Dno%2Clocation%3Dno%2Ctitlebar%3Dno#liyc#)');"></a></li>
+                <li style="background:url({$vo.pic})  "><a href="javascript:hz6d_is_exist('setIsinvited()%3Bwindow.open(#liyc#https%3A%2F%2Fwww16.53kf.com%2FwebCompany.php%3Farg%3D10185437%26style%3D1%26language%3Dzh-cn%26charset%3Dgbk%26kflist%3Doff%26kf%3D%26zdkf_type%3D1%26lnk_overflow%3D0%26referer%3Dhttp%253A%252F%252Fot.com%252Fyqc.html%26keyword%3D%26tfrom%3D1%26tpl%3Dcrystal_blue%26uid%3Dc60875c6c66a11399b222c2000fe7f33%26is_group%3D%26is_group%3D#liyc#%2C%20#liyc#_blank#liyc#%2C%20#liyc#height%3D600%2Cwidth%3D800%2Ctop%3D50%2Cleft%3D200%2Cstatus%3Dyes%2Ctoolbar%3Dno%2Cmenubar%3Dno%2Cresizable%3Dyes%2Cscrollbars%3Dno%2Clocation%3Dno%2Ctitlebar%3Dno#liyc#)');"></a></li>
                 </volist>
         </ul>
       </div>
@@ -39,7 +39,7 @@
 <!-- <embed src="flv.swf?vcastr_file=video/Next Door Deli.flv" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="375" height="280"> -->
 <!-- <object ><embed width=375 height=280 wmode="Transparent" allowfullscreen="true" allowscriptaccess="always" quality="high" src="http://player.youku.com/player.php/sid/XMzMwNjEyMzAxMg==/v.swf&topBar=1&autoplay=false&plid=1411&pub_catecode=0&from=page" type="application/x-shockwave-flash"/></embed></object> -->
 <!-- <embed src='https://v.qq.com/txp/iframe/player.html?vid=q07981spxzc' allowFullScreen='true' quality='high' width='375' height='280' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed> -->
-<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=w0871gl3lap&autoplay=false" allowFullScreen="true" autoplay=true  quality='high' width='450' height='300' align='middle' allowScriptAccess='always'></iframe>
+<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=q09000qd7w3&autoplay=false" allowFullScreen="true" autoplay=true  quality='high' width='450' height='300' align='middle' allowScriptAccess='always'></iframe>
 <!-- <embed src="flv.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="375" height="280"> -->
          </div>
          <div class="cur_t">
@@ -67,14 +67,19 @@
          <h3>明星产品</h3>
          <p>豆花随心配&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;有料更有味</p>
      </div>
-     <div class="w16">
+     <div class="w16" style="height: 46px;border: 0;width: 3000px;">
          <ul class="food_memu">
-            <li><a href="yiqicha.html?cat_id=30" title="水果茶"><p>水果茶</p></a></li>
-             <li ><a href="yiqicha.html?cat_id=31" title="纯奶茶"><p>纯奶茶</p></a></li>
-             <li ><a href="yiqicha.html?cat_id=34" title="三明治"><p>三明治</p></a></li>
-             <li ><a href="yiqicha.html?cat_id=33" title="甜品"><p>甜品</p></a></li>
-             <li ><a href="yiqicha.html?cat_id=35" title="柠檬茶"><p>柠檬茶</p></a></li>
-             <li ><a href="yiqicha.html?cat_id=32" title="招牌"><p>招牌</p></a></li>
+            <li style="margin-left: 5px"><a href="yiqicha.html?cat_id=30" title="水果茶"><p>水果茶</p></a></li>
+            <li style="margin-left: 5px"><a href="yiqicha.html?cat_id=31" title="手作奶茶"><p>手作奶茶</p></a></li>
+            <li style="margin-left: 5px"><a href="yiqicha.html?cat_id=34" title="OVERSIZE三文治"><p>OVERSIZE三文治</p></a></li>
+            <li style="margin-left: 5px"><a href="yiqicha.html?cat_id=33" title="甜品"><p>甜品</p></a></li>
+           <li style="margin-left: 5px"><a href="yiqicha.html?cat_id=35" title="柠檬精"><p>柠檬精</p></a></li>
+            <li style="margin-left: 5px"><a href="yiqicha.html?cat_id=32" title="大满贯"><p>大满贯</p></a></li>
+            <li style="margin-left: 5px"><a href="yiqicha.html?cat_id=44" title="奶盖"><p>奶盖</p></a></li>
+            <li style="margin-left: 5px"><a href="yiqicha.html?cat_id=45" title="冰棒茶"><p>冰棒茶</p></a></li>
+            <li style="margin-left: 5px"><a href="yiqicha.html?cat_id=46" title="冰淇淋"><p>冰淇淋</p></a></li>
+            <li style="margin-left: 5px"><a href="yiqicha.html?cat_id=47" title="鲜果优酪"><p>鲜果优酪</p></a></li>
+            <li style="margin-left: 5px"><a href="yiqicha.html?cat_id=48" title="旋风雪顶"><p>旋风雪顶</p></a></li>
            
                         <div class="clear"></div>
          </ul>
@@ -155,7 +160,7 @@
     <div class="wpb_single_image wpb_content_element vc_align_center">
         <div class="wpb_wrapper">
 
-            <img class=" vc_box_border_grey " src="{$static_path}images/e8a8a6d0046dcc25.gif" width="1023" height="96" alt="index_jiameng_tel">
+            <img class=" vc_box_border_grey " src="{$static_path}images/e8a8a6d0046dcc25.gif" width="2000" height="96" alt="index_jiameng_tel">
         </div>
     </div>
         </div>

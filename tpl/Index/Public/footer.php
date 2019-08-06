@@ -13,11 +13,16 @@
                     <a href="yiqicha.html">美食</a>
                     <ul class="sub-menu">
                         <li  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-778"><a href="yiqicha.html?cat_id=30"  title="水果茶">水果茶</a></li>
-                        <li  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-778"><a href="yiqicha.html?cat_id=31"  title="纯奶茶">纯奶茶</a></li>
-                        <li  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-778"><a href="yiqicha.html?cat_id=34"  title="三明治">三明治</a></li>
+                        <li  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-778"><a href="yiqicha.html?cat_id=31"  title="手作奶茶">手作奶茶</a></li>
+                        <li  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-778"><a href="yiqicha.html?cat_id=34"  title="OVERSIZE三文治">OVERSIZE三文治</a></li>
                         <li  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-778"><a href="yiqicha.html?cat_id=35"  title="甜品">甜品</a></li>
-                        <li  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-778"><a href="yiqicha.html?cat_id=32"  title="柠檬茶">柠檬茶</a></li>
-                        <li  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-778"><a href="yiqicha.html?cat_id=37"  title="招牌">招牌</a></li>
+                        <li  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-778"><a href="yiqicha.html?cat_id=32"  title="柠檬精">柠檬精</a></li>
+                        <li  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-778"><a href="yiqicha.html?cat_id=37"  title="大满贯">大满贯</a></li>
+                        <li  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-778"><a href="yiqicha.html?cat_id=44"  title="奶盖">奶盖</a></li>
+                        <li  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-778"><a href="yiqicha.html?cat_id=45"  title="冰棒茶">冰棒茶</a></li>
+                        <li  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-778"><a href="yiqicha.html?cat_id=46"  title="冰淇淋">冰淇淋</a></li>
+                        <li  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-778"><a href="yiqicha.html?cat_id=47"  title="鲜果优酪">鲜果优酪</a></li>
+                        <li  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-778"><a href="yiqicha.html?cat_id=48"  title="旋风雪顶">旋风雪顶</a></li>
                     </ul>
                 </li>
                 <li id="menu-item-317" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-317">
@@ -57,5 +62,6 @@ var _hmt = _hmt || []; (function() { var hm = document.createElement("script"); 
 <script type="text/javascript" charset="utf-8" async src="http://lxbjs.baidu.com/lxb.js?sid=11693852"></script>
     <script type='text/javascript' src='{$static_path}js/jquery.carouFredSel-6.2.1-packed.js?ver=6.2.1'></script>
     <script type='text/javascript' src='{$static_path}js/theme.extend.js?ver=4.1.8'></script>
+    <script type="text/javascript" src="https://s9.cnzz.com/z_stat.php?id=1277890774&web_id=1277890774"></script>
 </body>
 </html>

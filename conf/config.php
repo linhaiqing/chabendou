@@ -61,7 +61,7 @@ return array(
         'zhaoshang'    => 'Index/zhaoshang',
         'addclick'    => 'Index/addclick',
         'chabendou'    => 'Index/yiqicha',
-        'cgd'    => 'Index/yqc',
+        'cbd'    => 'Index/yqc',
         'yqc1'    => 'Index/yqc1',
         'wap'    => 'Index/wap',
         'wap1'    => 'Index/wap1',

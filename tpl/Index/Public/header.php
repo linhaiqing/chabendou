@@ -19,6 +19,14 @@
 <script type="text/javascript" src="{$static_path}js/script.js"></script>
 <script type="text/javascript" src="{$static_path}js/nav.js"></script>
 <script type="text/javascript" src="{$static_path}js/index.js"></script>
+<style>
+
+.dk {
+        position: absolute;
+        right: -220px;
+		
+    }
+</style>
 </head>
 <body>
 <div class="top">
@@ -26,13 +34,16 @@
             <div class="logo">
                 <a href="index.html"><img src="{$config.site_logo}" /></a>
             </div>
+             <div class="dk" >
+            <img src="{$static_path}pc6/28.png" width="100" height="76">
+            </div>
             <div class="nav">
                       <div class="tel">24H加盟热线：400-1668-553</div>
 
                       <div class="nav-bg">
                         <ul class="an-nav" style="width: 1060px;">
                           <li>
-                            <a href="cgd.html">招商加盟</a>
+                            <a href="cbd.html">招商加盟</a>
 
 
                           </li>
@@ -54,11 +65,16 @@
                             <ul class="sub sub-small" >
 
                               <li><a href="chabendou.html?cat_id=30" title="水果茶">水果茶</a></li>
-                             <li ><a href="chabendou.html?cat_id=31" title="纯奶茶">纯奶茶</a></li>
-                             <li ><a href="chabendou.html?cat_id=34" title="三明治">三明治</a></li>
+                             <li ><a href="chabendou.html?cat_id=31" title="手作奶茶">手作奶茶</a></li>
+                             <li ><a href="chabendou.html?cat_id=34" title="OVERSIZE三文治">OVERSIZE三文治</a></li>
                              <li ><a href="chabendou.html?cat_id=33" title="甜品">甜品</a></li>
-                             <li ><a href="chabendou.html?cat_id=35" title="柠檬茶">柠檬茶</a></li>
-                             <li ><a href="chabendou.html?cat_id=32" title="招牌">招牌</a></li>
+                             <li ><a href="chabendou.html?cat_id=35" title="柠檬精">柠檬精</a></li>
+                             <li ><a href="chabendou.html?cat_id=32" title="大满贯">大满贯</a></li>
+                             <li ><a href="chabendou.html?cat_id=44" title="奶盖">奶盖</a></li>
+                             <li ><a href="chabendou.html?cat_id=45" title="冰棒茶">冰棒茶</a></li>
+                             <li ><a href="chabendou.html?cat_id=46" title="冰淇淋">冰淇淋</a></li>
+                             <li ><a href="chabendou.html?cat_id=47" title="鲜果优酪">鲜果优酪</a></li>
+                             <li ><a href="chabendou.html?cat_id=48" title="旋风雪顶">旋风雪顶</a></li>
                              
                              
                              </ul>

@@ -22,10 +22,37 @@ class UserAction extends BaseAction {
 
         $this->display();
     }
+    public function index1() {
+        
+        $database_user = M('comment1');
+
+        $count_user = $database_user->where($condition_user)->count();
+        import('@.ORG.system_page');
+        $p = new Page($count_user, 15);
+        $user_list = $database_user->field(true)->where($condition_user)->order('`id` DESC')->limit($p->firstRow . ',' . $p->listRows)->select();
+
+        
+        $this->assign('user_list', $user_list);
+        $pagebar = $p->show();
+        $this->assign('pagebar', $pagebar);
+
+        $this->display();
+    }
 
     public function edit() {
 
         $database_user = D('Comment');
+        $condition_user['id'] = intval($_GET['id']);
+        $now_user = $database_user->field(true)->where($condition_user)->find();  
+        $now_user['recomment'] = $now_user['recomment']?:'您好，您的留言我们已收到,请保持电话畅通，谢谢！';   
+             
+        $this->assign('info', $now_user);
+
+        $this->display();
+    }
+    public function edit1() {
+
+        $database_user = D('Comment1');
         $condition_user['id'] = intval($_GET['id']);
         $now_user = $database_user->field(true)->where($condition_user)->find();  
         $now_user['recomment'] = $now_user['recomment']?:'您好，您的留言我们已收到,请保持电话畅通，谢谢！';   
@@ -41,6 +68,26 @@ class UserAction extends BaseAction {
         
              
             $database_user = D('Comment');
+            $condition_user['id'] = intval($_POST['id']);
+            $data_user['content'] = $_POST['content'];
+            $data_user['recomment'] = $_POST['recomment'];
+            $data_user['status'] = $_POST['status'];
+            if ($database_user->where($condition_user)->data($data_user)->save()) {
+                
+                $this->success('修改成功！');
+            } else {
+                $this->error('修改失败！请重试。');
+            }
+        } else {
+            $this->error('非法访问！');
+        }
+    }
+    public function amend1() {
+
+        if (IS_POST) {     
+        
+             
+            $database_user = D('Comment1');
             $condition_user['id'] = intval($_POST['id']);
             $data_user['content'] = $_POST['content'];
             $data_user['recomment'] = $_POST['recomment'];
