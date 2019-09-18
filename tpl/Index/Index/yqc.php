@@ -107,19 +107,19 @@
     .dt1 {
         position: absolute;
         right: 50px;
-        top: -260px;
+        top: 70px;
     }
 
     .dt2 {
         position: absolute;
         right: 20px;
-        top: 40px;
+        top: 200px;
     }
 
     .dt3 {
         position: absolute;
-        right: 250px;
-        top: 480px;
+        right: 300px;
+        top: 400px;
     }
 
     /*S banner图切换*/
@@ -254,9 +254,7 @@
 
     <div class="ny_banner1"><a href="javascript:;"><img src="{$static_path}pc6/1_13.jpg"></div>
 
-     <div class="ny_banner1" style="position: relative;"><a href="javascript:;"><img src="{$static_path}pc6/1_14.jpg">
-
-            <div class="dt1" id="dianji"><img src="{$static_path}images/1.gif" alt=""></div></div>
+     <div class="ny_banner1"><a href="javascript:;"><img src="{$static_path}pc6/1_14.jpg"></div>
 
      <div class="ny_banner1"><a href="javascript:;"><img src="{$static_path}pc6/1_15.jpg"></div>
 
@@ -274,7 +272,10 @@
 
     <div class="ny_banner1"><a href="javascript:;"><img src="{$static_path}pc6/1_22.jpg"></div>
 
-    <div class="ny_banner1"><a href="javascript:;"><img src="{$static_path}pc6/1_23.jpg"></div>
+    <div class="ny_banner1" style="position: relative;"><a href="javascript:;"><img src="{$static_path}pc6/1_23.jpg">
+
+            <div class="dt1" id="dianji"><img src="{$static_path}images/1.gif" alt=""></div></div>
+
 
     <div class="ny_banner1"><a href="javascript:;"><img src="{$static_path}pc6/1_24.jpg"></div>
 
@@ -294,9 +295,7 @@
 
     <div class="ny_banner1"><a href="javascript:;"><img src="{$static_path}pc6/1_32.jpg"></div>
 
-   <div class="ny_banner1" style="position: relative;"><a href="javascript:;"><img src="{$static_path}pc6/1_33.jpg">
-
-            <div class="dt2" id="dianji"><img src="{$static_path}images/1.gif" alt=""></div></div>
+  <div class="ny_banner1"><a href="javascript:;"><img src="{$static_path}pc6/1_33.jpg"></div>
 
     <div class="ny_banner1"><a href="javascript:;"><img src="{$static_path}pc6/1_34.jpg"></div>
 
@@ -312,7 +311,9 @@
 
     <div class="ny_banner1"><a href="javascript:;"><img src="{$static_path}pc6/1_40.jpg"></div>
 
-    <div class="ny_banner1"><a href="javascript:;"><img src="{$static_path}pc6/1_41.jpg"></div>
+    <div class="ny_banner1" style="position: relative;"><a href="javascript:;"><img src="{$static_path}pc6/1_41.jpg">
+
+            <div class="dt2" id="dianji"><img src="{$static_path}images/1.gif" alt=""></div></div>
 
     <div class="ny_banner1"><a href="javascript:;"><img src="{$static_path}pc6/1_42.jpg"></div>
 
@@ -389,15 +390,12 @@
     <div class="ny_banner1"><a href="javascript:;"><img src="{$static_path}pc6/1_75.jpg"></div>
 
     <div class="ny_banner1"><a href="javascript:;"><img src="{$static_path}pc6/1_76.jpg"></div>
+     <div class="ny_banner1"><a href="javascript:;"><img src="{$static_path}pc6/1_77.jpg"></div>
+      <div class="ny_banner1"><a href="javascript:;"><img src="{$static_path}pc6/1_78.jpg"></div>
+       <div class="ny_banner1"><a href="javascript:;"><img src="{$static_path}pc6/1_79.jpg"></div>
+        <div class="ny_banner1"><a href="javascript:;"><img src="{$static_path}pc6/1_80.jpg"></div>
+         <div class="ny_banner1"><a href="javascript:;"><img src="{$static_path}pc6/1_81.jpg"></div>
 
-    <div class="ny_banner1"><a href="javascript:;"><img src="{$static_path}pc6/1_77.jpg"></div>
-
-    <div class="ny_banner1"><a href="javascript:;"><img src="{$static_path}pc6/1_78.jpg"></div>
-
-    <div class="ny_banner1"><a href="javascript:;"><img src="{$static_path}pc6/1_79.jpg"></div>
-
-    <div class="ny_banner1"><a href="javascript:;"><img src="{$static_path}pc6/1_80.jpg"></div>
-     <div class="ny_banner1"><a href="javascript:;"><img src="{$static_path}pc6/1_81.jpg"></div>
 
 
     <!--
@@ -557,7 +555,7 @@
 
         $('#dianji img').click(function () {
 
-            hz6d_is_exist('setIsinvited()%3Bwindow.open(#liyc#https%3A%2F%2Fwww16.53kf.com%2FwebCompany.php%3Farg%10185437%26style%3D1%26language%3Dzh-cn%26charset%3Dgbk%26kflist%3Doff%26kf%3D%26zdkf_type%3D1%26lnk_overflow%3D0%26referer%3Dhttp%253A%252F%252Fot.com%252Fyqc.html%26keyword%3D%26tfrom%3D1%26tpl%3Dcrystal_blue%26uid%3Dc60875c6c66a11399b222c2000fe7f33%26is_group%3D%26is_group%3D#liyc#%2C%20#liyc#_blank#liyc#%2C%20#liyc#height%3D600%2Cwidth%3D800%2Ctop%3D50%2Cleft%3D200%2Cstatus%3Dyes%2Ctoolbar%3Dno%2Cmenubar%3Dno%2Cresizable%3Dyes%2Cscrollbars%3Dno%2Clocation%3Dno%2Ctitlebar%3Dno#liyc#)');
+            hz6d_is_exist('setIsinvited()%3Bwindow.open(#liyc#https%3A%2F%2Fwww16.53kf.com%2FwebCompany.php%3Farg%3D10185437%26style%3D1%26language%3Dzh-cn%26charset%3Dgbk%26kflist%3Doff%26kf%3D%26zdkf_type%3D1%26lnk_overflow%3D0%26referer%3Dhttp%253A%252F%252Fot.com%252Fyqc.html%26keyword%3D%26tfrom%3D1%26tpl%3Dcrystal_blue%26uid%3Dc60875c6c66a11399b222c2000fe7f33%26is_group%3D%26is_group%3D#liyc#%2C%20#liyc#_blank#liyc#%2C%20#liyc#height%3D600%2Cwidth%3D800%2Ctop%3D50%2Cleft%3D200%2Cstatus%3Dyes%2Ctoolbar%3Dno%2Cmenubar%3Dno%2Cresizable%3Dyes%2Cscrollbars%3Dno%2Clocation%3Dno%2Ctitlebar%3Dno#liyc#)');
 
         })
 

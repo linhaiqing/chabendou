@@ -61,7 +61,7 @@
 <div class="img">
 
 
-   <img src="{$static_path}wap6/22.jpg" alt="">
+   <img src="{$static_path}wap6/10.jpg" alt="">
   
 <div style="display: none;">
     <script src="https://s13.cnzz.com/z_stat.php?id=1273883163&web_id=1273883163" language="JavaScript"></script>

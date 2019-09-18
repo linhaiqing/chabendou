@@ -41,20 +41,23 @@ $(document).ready(function() {
     <div class="ny_title">
              <div id="box_left_sub1_sub1_sub2" data-unuse="1" style="height: 50px;background-color: #B3B3B3;font-weight: bold;">
 
-<div class="FrontColumns_navigation01-d1_c1" data-unuse="1" style="height: 46px;border: 0;width: 2400px;">
+<div class="FrontColumns_navigation01-d1_c1" data-unuse="1" style="height: 46px;border: 0;width: 3000px;">
     <ul class="nav-first">
 
-        <li style="margin-left: 40px"><a href="yiqicha.html?cat_id=30" title="水果茶">水果茶</a></li>
-         <li style="margin-left: 40px"><a href="yiqicha.html?cat_id=31" title="手作奶茶">手作奶茶</a></li>
-         <li style="margin-left: 40px"><a href="yiqicha.html?cat_id=34" title="OVERSIZE三文治">OVERSIZE三文治</a></li>
-         <li style="margin-left: 40px"><a href="yiqicha.html?cat_id=33" title="甜品">甜品</a></li>
-         <li style="margin-left: 40px"><a href="yiqicha.html?cat_id=35" title="柠檬精">柠檬精</a></li>
-         <li style="margin-left: 40px"><a href="yiqicha.html?cat_id=32" title="大满贯">大满贯</a></li>
-         <li style="margin-left: 40px"><a href="yiqicha.html?cat_id=44" title="奶盖">奶盖</a></li>
-         <li style="margin-left: 40px"><a href="yiqicha.html?cat_id=45" title="冰棒茶">冰棒茶</a></li>
-         <li style="margin-left: 40px"><a href="yiqicha.html?cat_id=46" title="冰淇淋">冰淇淋</a></li>
-         <li style="margin-left: 40px"><a href="yiqicha.html?cat_id=47" title="鲜果优酪">鲜果优酪</a></li>
-         <li style="margin-left: 40px"><a href="yiqicha.html?cat_id=48" title="旋风雪顶">旋风雪顶</a></li>
+        <li style="margin-left: -5px"><a href="yiqicha.html?cat_id=30" title="水果茶">水果茶</a></li>
+         <li style="margin-left: -5px"><a href="yiqicha.html?cat_id=31" title="手作奶茶">手作奶茶</a></li>
+         <li style="margin-left: -5px"><a href="yiqicha.html?cat_id=34" title="OVERSIZE三文治">OVERSIZE三文治</a></li>
+         <li style="margin-left: -5px"><a href="yiqicha.html?cat_id=33" title="甜品">甜品</a></li>
+         <li style="margin-left: -5px"><a href="yiqicha.html?cat_id=35" title="柠檬精">柠檬精</a></li>
+         <li style="margin-left: -5px"><a href="yiqicha.html?cat_id=32" title="大满贯">大满贯</a></li>
+         <li style="margin-left: -5px"><a href="yiqicha.html?cat_id=44" title="奶盖">奶盖</a></li>
+         <li style="margin-left: -5px"><a href="yiqicha.html?cat_id=45" title="冰棒茶">冰棒茶</a></li>
+         <li style="margin-left: -5px"><a href="yiqicha.html?cat_id=46" title="冰淇淋">冰淇淋</a></li>
+         <li style="margin-left: -5px"><a href="yiqicha.html?cat_id=47" title="鲜果优酪">鲜果优酪</a></li>
+         <li style="margin-left: -5px"><a href="yiqicha.html?cat_id=48" title="旋风雪顶">旋风雪顶</a></li>
+         <li style="margin-left: -5px"><a href="yiqicha.html?cat_id=49" title="益力多">益力多</a></li>
+          <li style="margin-left: -5px"><a href="yiqicha.html?cat_id=50" title="布丁奶茶">布丁奶茶</a></li>
+
 
 
     </ul></div>

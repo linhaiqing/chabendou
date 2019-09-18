@@ -94,7 +94,7 @@
       在线留言
     </div>
     <div class="panel-body">
-      <form class="myqcorm" action="http://hiyefu.com/index.php?c=Index&a=ajax_comment" method="post" id="form1">
+      <form class="myqcorm" action="http://chabendou.com/index.php?c=Index&a=ajax_comment" method="post" id="form1">
         <div class="row form-group">
           <div class="col-xs-6">
             <input style="height:34px" class="form-control" type="text" name="name" id="name" value="" placeholder="请输入您的姓名" required="required"/>
@@ -162,7 +162,7 @@
     $(function(){
         /* 提示 */
         $('.btn-primary').on('click', function () {
-            $.post("http://hiyefu.com/index.php?c=Index&a=comment",$("#form1").serialize(),function(data){
+            $.post("http://chabendou.com/index.php?c=Index&a=comment",$("#form1").serialize(),function(data){
                 if(data['status']==0){
                     alert(data.info);
                 }else{
@@ -175,7 +175,7 @@
     });
     function ajaxdata(page){
       // 这里可以写些验证代码
-      $.get("http://hiyefu.com/index.php?c=Index&a=ajax_comment",{page:page},function(data){
+      $.get("http://chabendou.com/index.php?c=Index&a=ajax_comment",{page:page},function(data){
             if(data.li==''){
             }else{
               total = data.total; //总记录数 

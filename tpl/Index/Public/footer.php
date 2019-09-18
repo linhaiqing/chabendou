@@ -23,6 +23,8 @@
                         <li  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-778"><a href="yiqicha.html?cat_id=46"  title="冰淇淋">冰淇淋</a></li>
                         <li  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-778"><a href="yiqicha.html?cat_id=47"  title="鲜果优酪">鲜果优酪</a></li>
                         <li  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-778"><a href="yiqicha.html?cat_id=48"  title="旋风雪顶">旋风雪顶</a></li>
+                        <li  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-778"><a href="yiqicha.html?cat_id=49"  title="益力多">益力多</a></li>
+                        <li  class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-778"><a href="yiqicha.html?cat_id=50"  title="布丁奶茶">布丁奶茶</a></li>
                     </ul>
                 </li>
                 <li id="menu-item-317" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-317">
